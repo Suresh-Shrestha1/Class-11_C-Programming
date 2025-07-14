@@ -1,6 +1,23 @@
 # Class-11_C-Programming
 
-This repository contains C programming lab assignments organized by lab number. Each lab folder contains C source files (`.c`) and their corresponding executables (`.exe`).
+![C Language](https://img.shields.io/badge/Language-C-blue?logo=c)
+![Last Commit](https://img.shields.io/github/last-commit/Suresh-Shrestha1/Class-11_C-Programming)
+
+Welcome to the **C Programming** repository! This collection is designed to help beginners practice core concepts of the C programming language through structured, hands-on lab exercises.
+
+---
+
+## 📚 Table of Contents
+
+- [Directory Structure](#-directory-structure)  
+- [Lab Summary](#-lab-summary-table)  
+- [How to Compile and Run](#-how-to-compile-and-run)  
+- [Sample Code Snippets](#-sample-code-snippets)  
+- [Prerequisites](#-prerequisites)  
+- [Missing Files](#-missing-files)  
+- [Contribution Guide](#-contribution-guide)  
+- [License](#-license)  
+- [Contact](#-contact)  
 
 ## Folder Structure
 
