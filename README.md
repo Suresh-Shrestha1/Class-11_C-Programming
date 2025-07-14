@@ -27,7 +27,50 @@ Each lab is organized into folders based on lab numbers. Inside each lab folder,
 - `.exe` files: Precompiled executables (if available)
 - Comments and code structured for easy readability and modification
 
----
+## 🗂️ Directory Structure
+
+```
+Class-11_C-Programming/
+├── Lab1/
+│   ├── Lab1a.c ✅ Addition
+│   ├── Lab1b.c ➖ Subtraction
+│   ├── Lab1c.c ✖️ Multiplication
+│   ├── Lab1d.c ➗ Division
+│   └── Labc.c ✖️ (Duplicate of Lab1c)
+├── Lab2/
+│   ├── Lab2a.c 🧮 Area of a rectangle
+│   ├── Lab2b.c 🟠 Area of a circle
+│   ├── Lab2c.c 🔺 Area of a triangle (Heron's formula)
+│   └── Lab2d.c 💱 Currency conversion (paisa to rupees)
+├── Lab3/
+│   ├── Lab3a.c 🔢 Find middle number
+│   └── Lab3b.c 🥇 Find largest number
+├── Lab4/
+│   ├── Lab4a1.c 🔁 For loop (1 to 10)
+│   ├── Lab4a2.c 🔁 While loop (1 to 10)
+│   ├── Lab4a3.c 🔁 Do-while loop (1 to 10)
+│   └── Lab4b.c ➕ Series: 1, 5, 9, ...
+├── Lab5/
+│   ├── Lab5a.c 🧪 Prime number check
+│   └── Lab5b.c 🔄 Palindrome check
+├── Lab6/
+│   ├── Lab6a.c 💼 Salary range count
+│   └── Lab6b.c 👤 Age range count
+├── Lab7/
+│   ├── Lab7a.c 🔟 Find largest of 10 numbers
+│   ├── Lab7b.c ➕ Add 3x3 matrices
+│   └── Lab7c.c ✖️ Multiply 3x3 matrices
+├── Lab8/
+│   ├── Lab8a.c 📏 String length
+│   ├── Lab8b.c 🔁 String reverse
+│   ├── Lab8c.c 🔡 Lowercase to Uppercase
+│   └── Lab8d.c 🔠 Uppercase to Lowercase
+├── Lab9/
+│   ├── Lab9a.c 📈 Sort numbers (15 inputs)
+│   └── Lab9b.c 🔤 Sort names (10 inputs)
+└── README.md 📘 You're here!
+```
+
 
 ## Folder Structure
 
