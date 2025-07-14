@@ -9,7 +9,7 @@ Welcome to the **C Programming** repository! This collection is designed to help
 
 ## 📚 Table of Contents
 
-- [Directory Structure](#-directory-structure)  
+- [Directory Structure](##-directory-structure)  
 - [Lab Summary](#-lab-summary-table)  
 - [How to Compile and Run](#-how-to-compile-and-run)  
 - [Sample Code Snippets](#-sample-code-snippets)  
@@ -70,36 +70,20 @@ Class-11_C-Programming/
 │   └── Lab9b.c 🔤 Sort names (10 inputs)
 └── README.md 📘 You're here!
 ```
+## 📋 Lab Summary Table
 
+| 🧪 Lab | Description                                  | Key Concepts                     |
+|-------|----------------------------------------------|----------------------------------|
+| Lab1  | Basic Arithmetic                             | Input/Output, Operators          |
+| Lab2  | Area & Currency Calculations                 | Math formulas, Float arithmetic  |
+| Lab3  | Min/Max/Middle of Numbers                    | Conditional statements           |
+| Lab4  | Loops and Series Generation                  | For, While, Do-While             |
+| Lab5  | Prime and Palindrome Checks                  | Logic, Modulo, Reversal          |
+| Lab6  | Range Counting                               | Arrays, Conditionals             |
+| Lab7  | Matrix and Array Operations                  | Multidimensional Arrays          |
+| Lab8  | String Operations                            | Char Arrays, String Handling     |
+| Lab9  | Sorting Algorithms                           | Arrays, Bubble Sort (likely)     |
 
-## Folder Structure
-
-- **Lab1/**  
-  Basic arithmetic operations (addition, subtraction, multiplication, division).
-
-- **Lab2/**  
-  Area calculations and currency conversion.
-
-- **Lab3/**  
-  Finding the middle and largest numbers among three inputs.
-
-- **Lab4/**  
-  Looping constructs (for, while, do-while) and series generation.
-
-- **Lab5/**  
-  Prime number check and palindrome check.
-
-- **Lab6/**  
-  Counting employees/persons based on salary/age ranges.
-
-- **Lab7/**  
-  Array operations: finding the largest number, matrix addition, and matrix multiplication.
-
-- **Lab8/**  
-  String operations: length, reverse, case conversion.
-
-- **Lab9/**  
-  Sorting numbers and names.
 
 ## How to Run
 
