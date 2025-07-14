@@ -8,7 +8,6 @@ Welcome to the **C Programming** repository! This collection is designed to help
 ---
 
 ## 📚 Table of Contents
-## 📚 Table of Contents
 
 - [🧭 Overview](#-overview)  
 - [🗂️ Directory Structure](#️-directory-structure)  
@@ -105,3 +104,31 @@ gcc Lab1/Lab1a.c -o Lab1/Lab1a.exe
 ```
 This will compile `Lab1a.c` and run the resulting executable. You can replace `Lab1a.c` with any other `.c` file from the labs.
 
+## 🧾 Sample Code Snippets
+
+### `Lab1a.c` — Adding Two Numbers
+
+```
+#include <stdio.h>
+
+int main() {
+    int a, b, sum;
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+    sum = a + b;
+    printf("Sum = %d\n", sum);
+    return 0;
+}
+```
+
+### Compile & Run
+```
+gcc Lab1/Lab1a.c -o Lab1/Lab1a.exe
+./Lab1/Lab1a.exe
+```
+
+Expected output:
+```
+Enter two numbers: 5 10
+Sum = 15
+```
