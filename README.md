@@ -30,7 +30,7 @@ Each lab is organized into folders based on lab numbers. Inside each lab folder,
 
 ...
 
-## 🗂️ File Structure
+## 🗂️ Directory Structure
 
 ```
 Class-11_C-Programming/
@@ -91,12 +91,17 @@ Class-11_C-Programming/
 
 
 ## ⚙️ How to Compile and Run
+- Open the `.c` file in your IDE.
+- Compile → Run.
 
-You can compile any `.c` file using [GCC](https://gcc.gnu.org/) or another C compiler.
+> ⚠️ Note: Filenames are case-sensitive on Unix systems. Ensure consistent naming.
 
 ### Example using GCC (Linux/macOS/MinGW on Windows):
 
+To compile and run `Lab1/Lab1a.c` using GCC:
 ```sh
 gcc Lab1/Lab1a.c -o Lab1/Lab1a.exe
 ./Lab1/Lab1a.exe
 ```
+This will compile `Lab1a.c` and run the resulting executable. You can replace `Lab1a.c` with any other `.c` file from the labs.
+
