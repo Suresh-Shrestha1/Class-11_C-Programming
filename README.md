@@ -159,4 +159,11 @@ git push origin feature/your-feature-name
 ```
 6. Open a Pull Request here on GitHub
 
-   
+### Guidelines
+- Write clean, commented code
+- Follow the naming conventions (e.g., lab1a.c)
+- Update README if you add new files or change functionality
+- Test your code before submitting
+
+## 📬 Author
+This code was written by Suresh Shrestha. If you have any questions or need further clarification, feel free to reach out!
