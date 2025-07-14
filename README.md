@@ -8,16 +8,17 @@ Welcome to the **C Programming** repository! This collection is designed to help
 ---
 
 ## 📚 Table of Contents
+## 📚 Table of Contents
 
-- [Directory Structure](##-directory-structure)  
-- [Lab Summary](#-lab-summary-table)  
-- [How to Compile and Run](#-how-to-compile-and-run)  
-- [Sample Code Snippets](#-sample-code-snippets)  
-- [Prerequisites](#-prerequisites)  
-- [Missing Files](#-missing-files)  
-- [Contribution Guide](#-contribution-guide)  
-- [License](#-license)  
-- [Contact](#-contact)  
+- [🧭 Overview](#-overview)  
+- [🗂️ Directory Structure](#️-directory-structure)  
+- [📋 Lab Summary Table](#-lab-summary-table)  
+- [⚙️ How to Compile and Run](#️-how-to-compile-and-run)  
+- [🧾 Sample Code Snippets](#-sample-code-snippets)  
+- [🧑‍💻 Prerequisites](#-prerequisites)  
+- [🤝 Contribution Guide](#-contribution-guide)  
+- [📬 Author](#-author)  
+
 
 ## 🧭 Overview
 
@@ -27,7 +28,9 @@ Each lab is organized into folders based on lab numbers. Inside each lab folder,
 - `.exe` files: Precompiled executables (if available)
 - Comments and code structured for easy readability and modification
 
-## 🗂️ Directory Structure
+...
+
+## 🗂️ File Structure
 
 ```
 Class-11_C-Programming/
@@ -70,6 +73,7 @@ Class-11_C-Programming/
 │   └── Lab9b.c 🔤 Sort names (10 inputs)
 └── README.md 📘 You're here!
 ```
+
 ## 📋 Lab Summary Table
 
 | 🧪 Lab | Description                                  | Key Concepts                     |
@@ -85,21 +89,14 @@ Class-11_C-Programming/
 | Lab9  | Sorting Algorithms                           | Arrays, Bubble Sort (likely)     |
 
 
-## How to Run
 
-1. Open the desired `.c` file in your C compiler (e.g., Turbo C, GCC).
-2. Compile and run the program.
-3. Alternatively, use the provided `.exe` files if you are on a compatible system.
+## ⚙️ How to Compile and Run
 
-## Example
+You can compile any `.c` file using [GCC](https://gcc.gnu.org/) or another C compiler.
 
-To compile and run `Lab1/Lab1a.c` using GCC:
+### Example using GCC (Linux/macOS/MinGW on Windows):
 
 ```sh
 gcc Lab1/Lab1a.c -o Lab1/Lab1a.exe
 ./Lab1/Lab1a.exe
 ```
-
----
-
-Each lab demonstrates fundamental C programming
