@@ -27,8 +27,6 @@ Each lab is organized into folders based on lab numbers. Inside each lab folder,
 - `.exe` files: Precompiled executables (if available)
 - Comments and code structured for easy readability and modification
 
-...
-
 ## 🗂️ Directory Structure
 
 ```
