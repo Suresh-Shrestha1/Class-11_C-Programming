@@ -19,6 +19,16 @@ Welcome to the **C Programming** repository! This collection is designed to help
 - [License](#-license)  
 - [Contact](#-contact)  
 
+## 🧭 Overview
+
+Each lab is organized into folders based on lab numbers. Inside each lab folder, you'll find:
+
+- `.c` files: C source code
+- `.exe` files: Precompiled executables (if available)
+- Comments and code structured for easy readability and modification
+
+---
+
 ## Folder Structure
 
 - **Lab1/**  
