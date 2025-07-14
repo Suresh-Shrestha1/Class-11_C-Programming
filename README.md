@@ -132,3 +132,31 @@ Expected output:
 Enter two numbers: 5 10
 Sum = 15
 ```
+
+## 🧑‍💻 Prerequisites
+Before running these programs, ensure you have:
+
+- A C compiler installed (e.g., GCC, Turbo C++)
+- A code editor or IDE (e.g., VS Code, Code::Blocks)
+- Basic knowledge of the C language
+
+## 🤝 Contribution Guide
+Thank you for considering contributing! Here’s how you can help:
+
+1. Fork this repository
+2. Create a branch
+```
+git checkout -b feature/your-feature-name
+```
+3. Make changes to code or docs
+4. Commit your changes
+```
+git commit -m "Add feature XYZ"
+```
+5. Push your branch
+```
+git push origin feature/your-feature-name
+```
+6. Open a Pull Request here on GitHub
+
+   
